@@ -1,1 +1,0 @@
-# rasp_list_difficulty
